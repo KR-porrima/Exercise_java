@@ -16,5 +16,8 @@ public class VariableTest {
 		System.out.println(age);
 		
 		int count, num;
+		
+		int numberOfStudent; //Camel Notation : 낙타의 등과 같음
+		numberOfStudent = 30;
 	}
 }
